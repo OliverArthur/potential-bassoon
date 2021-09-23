@@ -10,7 +10,7 @@ First you must clone the repository into your local machine.
 git clone https://github.com/OliverArthur/potential-bassoon.git
 ```
 
-Then you have to cd to the directory and run the following command:
+Then you have to `cd potential-bassoon` to the directory and run the following command:
 
 **Yarn:** if your prefer to use yarn instead of npm.
 
